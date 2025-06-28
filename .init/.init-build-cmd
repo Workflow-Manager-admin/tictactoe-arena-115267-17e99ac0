@@ -1,0 +1,4 @@
+{
+    "command": "chmod +x startup.sh && sudo ./startup.sh &",
+    "working_directory": "/home/kavia/workspace/code-generation/tictactoe-arena-115267-17e99ac0/tic_tac_toe_database"
+}
